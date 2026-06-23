@@ -1,7 +1,4 @@
-<img width="1254" height="1254" alt="ChatGPT Image 23 jun 2026, 06_01_03 a m" src="https://github.com/user-attachments/assets/378c2515-bf74-46e5-8c94-99cd218ce3e7" /># BLACKLAMP
-
-
-<img width="1024" height="960" alt="gtxtr" src="https://github.com/user-attachments/assets/3edd653e-3704-48c8-9774-d19ffdef259f" />
+<img width="1024" height="920" alt="gtxtr" src="https://github.com/user-attachments/assets/f1bf0ba4-003c-4ef0-9f86-8a254e242c64" />
 
 
 **BLACKLAMP** es un escudo personal de ciberseguridad para revisar enlaces, descargas, inicios de Windows y señales locales de riesgo antes de ejecutar algo o confiar en un enlace.
