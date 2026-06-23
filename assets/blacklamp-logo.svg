@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="900" height="300" fill="#071014"/>
+  <path d="M110 250 L180 50 L250 250 Z" fill="#0d1b22" stroke="#ff4d5e" stroke-width="8"/>
+  <circle cx="180" cy="145" r="42" fill="#7ee7ff"/>
+  <path d="M180 85 L180 205" stroke="#071014" stroke-width="16"/>
+  <text x="310" y="130" fill="#e8f6ff" font-size="58" font-family="Segoe UI, Arial" font-weight="800">OXLGR</text>
+  <text x="310" y="198" fill="#ff4d5e" font-size="56" font-family="Segoe UI, Arial" font-weight="900">BLACKLAMP</text>
+  <text x="312" y="235" fill="#9bb8c2" font-size="22" font-family="Segoe UI, Arial">xtr4ng3 · escudo personal · 🕷️</text>
+</svg>
