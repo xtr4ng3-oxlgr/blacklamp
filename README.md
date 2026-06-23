@@ -1,6 +1,3 @@
-<img width="1024" height="920" alt="gtxtr" src="https://github.com/user-attachments/assets/f1bf0ba4-003c-4ef0-9f86-8a254e242c64" />
-
-
 **BLACKLAMP** es un escudo personal de ciberseguridad para revisar enlaces, descargas, inicios de Windows y señales locales de riesgo antes de ejecutar algo o confiar en un enlace.
 
 Creado por **xtr4ng3**.
@@ -127,6 +124,9 @@ Un hallazgo alto significa: **detenerse y revisar**.
 ---
 
 ## Licencia
+
+<img width="960" height="720" alt="gtxtr" src="https://github.com/user-attachments/assets/f1bf0ba4-003c-4ef0-9f86-8a254e242c64" />
+
 
 MIT.
 
