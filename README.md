@@ -1,3 +1,7 @@
+
+<img width="1672" height="941" alt="blacklamp" src="https://github.com/user-attachments/assets/e0ef4f06-0085-4950-93b7-b40e3e5c46ba" />
+
+
 **BLACKLAMP** es un escudo personal de ciberseguridad para revisar enlaces, descargas, inicios de Windows y señales locales de riesgo antes de ejecutar algo o confiar en un enlace.
 
 Creado por **xtr4ng3**.
