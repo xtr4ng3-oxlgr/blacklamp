@@ -126,8 +126,8 @@ Un hallazgo alto significa: **detenerse y revisar**.
 ## Licencia
 
 <img width="384" height="384" alt="giphy (4)" src="https://github.com/user-attachments/assets/18d64b9e-fba8-493e-8462-f6722e0e64b7" />
-
+**xtr4ng3**
 
 MIT.
 
-**xtr4ng3**
+
