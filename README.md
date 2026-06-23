@@ -125,7 +125,7 @@ Un hallazgo alto significa: **detenerse y revisar**.
 
 ## Licencia
 
-<img width="1024" height="920" alt="gtxtr" src="https://github.com/user-attachments/assets/f1bf0ba4-003c-4ef0-9f86-8a254e242c64" />
+<img width="384" height="384" alt="giphy (4)" src="https://github.com/user-attachments/assets/18d64b9e-fba8-493e-8462-f6722e0e64b7" />
 
 
 MIT.
